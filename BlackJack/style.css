@@ -1,0 +1,60 @@
+#title {
+    color : yellow;
+    padding-left: 220px;
+    border : 2px solid yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color : black;
+}
+
+#message {
+    color : greenyellow;
+    font-size : 35px;
+    font-family: 'Trebuchet MS';
+    padding-left: 0px;
+    margin : 20px;
+}
+
+.same {
+    font-size: 70px;
+    color: white;
+    font-family :'Trebuchet MS';
+}
+
+body {
+    background-color: rgb(26, 57, 141);
+}
+
+#start_game {
+   margin-left: 130px;
+   width: 300px;
+   height: 70px;
+   background-color: red;
+   border : 2px solid yellow;
+   border-radius : 5px;
+    
+}
+
+#new_card {
+    margin-top: 10px;
+    margin-left: 130px;
+    width: 300px;
+    height: 70px;
+    background-color: red;
+    border : 2px solid yellow;
+    border-radius : 5px;
+}
+
+#l {
+    color : white;
+    font-size : 50px;
+    font-family: 'Trebuchet MS';
+    
+}
+
+#l2 {
+    color : white;
+    font-size : 50px;
+    font-family: 'Trebuchet MS';
+}
+
+
